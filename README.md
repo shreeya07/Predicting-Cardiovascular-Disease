@@ -1,2 +1,2 @@
 # Predicting-Cardiovascular-Disease
-Predicting the possibility of Cardiovascular Disease (Jupyter Notebook,Tableau,Machine Learning Algorithms) 
+Analysis of the dataset is performed to predict the possibility of cardiovascular disease based on other factors in a dataset. Conducted Data Cleaning, and Exploratory data analysis in Python using NumPy, Pandas, Matplotlib, and  Seaborn Libraries. Prediction Model is built by applying Machine Learning Algorithms (Logistic Regression, Random Forest, Decision Tree, and Naïve Bayes) in Python using scikit-learn library.
